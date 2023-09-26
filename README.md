@@ -4,3 +4,7 @@ Dir
 cd desktop
 mkdir demo2609
 create a file file.txt
+git init  ( to initialize the git repository)
+git status ( it shows the status of the files)
+git add . (to load the file into staging area of the git repository)
+git add filename.txt ( to add the individual file)
